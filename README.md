@@ -1,14 +1,14 @@
 # CodeAlpha_FAQChatbot
 
 ## Overview
-This project is a FAQ Chatbot developed using Python, TF-IDF Vectorization, and Cosine Similarity. The chatbot matches user questions with predefined FAQs and returns the most relevant answer.
+A FAQ Chatbot built using Python, TF-IDF Vectorization, Cosine Similarity, and NLTK preprocessing.
 
 ## Features
-- FAQ-based Question Answering
-- NLP Text Processing
+- FAQ-based chatbot
+- NLP text preprocessing using NLTK
 - TF-IDF Vectorization
-- Cosine Similarity Matching
-- Interactive Chat Interface
+- Cosine Similarity matching
+- Interactive command-line chatbot
 
 ## Technologies Used
 - Python
@@ -21,7 +21,7 @@ This project is a FAQ Chatbot developed using Python, TF-IDF Vectorization, and 
 pip install -r requirements.txt
 ```
 
-## Run the Project
+## Run
 
 ```bash
 python chatbot.py
